@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+}
+
+table {
+	margin: 0 auto 0 auto;
+}
+
+span {
+	border-style: solid;
+	border-width: 1px;
+	padding: 0 3em 0.1em 3em;
+}
+
+#btnClear {
+	background-color: lightcoral;
+}
+
+.opBtn {
+	background-color: lightgreen;
+}
+
+#btnEqual {
+	background-color: lightsalmon;
+}
